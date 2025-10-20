@@ -1,4 +1,4 @@
-# 📊 SHIELD INSURANCE – Business Performance & Customer Insights Dashboard (Power BI)
+# 📊 Shield Insurance – Business Performance Analysis (Power BI)
 
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat) 
 ![DAX](https://img.shields.io/badge/-DAX-000000?logo=microsoftpowerbi&logoColor=white&style=flat) 
