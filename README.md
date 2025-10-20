@@ -58,7 +58,7 @@ This project empowers business stakeholders to make **data-driven decisions** fo
 - Ensured accurate **one-to-many** relationships for seamless cross-filtering.  
 
 📊 *Data Model Preview:*  
-![Data Model](43794f67-6123-41cb-910d-649016239df8.png)  
+![Data Model](DATA_MODEL.png)  
 
 ---
 
