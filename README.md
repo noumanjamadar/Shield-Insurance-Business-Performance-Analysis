@@ -95,7 +95,7 @@ This project empowers business stakeholders to make **data-driven decisions** fo
 ## 🖼️ Dashboards Preview  
 
 ### Dashboard 1 – General Overview  
-![General Overview](GENERAL_OVERVIEW.png)  
+![General Overview](GENERAL_VIEW.png)  
 
 ### Dashboard 2 – Sales Mode Analysis  
 ![Sales Mode Analysis](SALES_MODE_ANALYSIS.png)  
